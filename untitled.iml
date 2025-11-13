@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/target1/clasess" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target1/clasess/org" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target1/generated-sources/annotations" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/target1/genrated-test-sources/test-annotations" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/target1/test-classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target1/test-classes/org" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target1/test-classes/org/example" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+  </component>
+</module>
